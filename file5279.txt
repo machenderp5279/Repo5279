@@ -1,1 +1,3 @@
 first file in brnach1 path 
+
+editing this file so that i can push it and merge to main branch in remote repository 
